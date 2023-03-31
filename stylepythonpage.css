@@ -1,0 +1,57 @@
+body {
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: Andale Mono, monospace;
+
+}
+
+header {
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(49, 47, 47);
+    color: rgb(205, 196, 196);
+    font-family: Andale Mono, monospace;
+    
+}
+
+section {
+    text-align: center;
+    background: rgb(95, 92, 92);
+    color: whitesmoke;
+    width: 1100px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    padding: 15px;
+}
+
+h1, h6 {
+    padding: 0;
+    margin: 0;
+}
+
+#imagem{
+    display:flex;
+    justify-content: center;
+}
+
+footer {
+    font-style: italic;
+    color: black;
+}
+
+#section {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    position: relative;
+    margin: auto;
+    border-radius: 10px;
+    color: rgb(17, 68, 17);
+    box-shadow: 2px 2px 8px black;
+    font-family: Andale Mono, monospace;
+
+}
+
+
